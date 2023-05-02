@@ -843,6 +843,6 @@ document.title = '♪(^∇^*) 欢迎回来！' + OriginTitile;
   titleTime = setTimeout(function() {
     document.title = OriginTitile
   }, 2000)
-  clearTimeout(titleTime)
+  // clearTimeout(titleTime)
 }
 });
